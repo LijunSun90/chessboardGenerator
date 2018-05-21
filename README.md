@@ -1,0 +1,3 @@
+# chessboardGenerator
+
+Generate a chessboard.
